@@ -4,9 +4,10 @@
 
 /**
 @author Daniel Garcia Lopez;
-@version 1;
+@version 2;
+* Esta es la version 2 
 */
-$np = 65;
+$np = 66;
 
 /**
 * Pintara si el numero es primo
