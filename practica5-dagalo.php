@@ -7,7 +7,7 @@
 @version 2;
 * Esta es la version 2 
 */
-$np = 66;
+$np = 63;
 
 /**
 * Pintara si el numero es primo
